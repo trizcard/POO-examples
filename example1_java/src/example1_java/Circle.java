@@ -1,4 +1,4 @@
-package java_example1;
+package example1_java;
 
 public class Circle {
     private float radius;
